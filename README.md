@@ -4,7 +4,7 @@
 
 ## Note:
 - **The Bomber Only Works For Sri Lankan Numbers**
-- The Script requires working network connection to work.
+- The Script requires working network connection to workfunction.
 - No Balance Will Be Deducted For Using This Script To Send SMS.
 - Make Sure You Are Using Python3.
 - Do Not Use This To Harm Others.
